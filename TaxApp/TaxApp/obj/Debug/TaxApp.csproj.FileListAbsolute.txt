@@ -1,0 +1,11 @@
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\bin\Debug\TaxApp.exe.config
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\bin\Debug\TaxApp.exe
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\bin\Debug\TaxApp.pdb
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.AssemblyReference.cache
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.SuggestedBindingRedirects.cache
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\obj\Debug\TaxApp.Form1.resources
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.cache
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\obj\Debug\TaxApp.exe
+D:\Academic\dotnet\WindowsFormsAppDevelopment\TaxApp\TaxApp\obj\Debug\TaxApp.pdb
